@@ -26,7 +26,7 @@ public class Main {
 
         int age = 15;
 
-        if (age >= 13) {
+        if (age >= 13 && age <= 17) {
             System.out.println("Teenager");
         }
     }
